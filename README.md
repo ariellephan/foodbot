@@ -1,4 +1,4 @@
-# goferbot
+# foodbot
 ### A slack bot to coordinate food run for offices
 
 Foodbot uses natural language processing to collect orders for any food run.
